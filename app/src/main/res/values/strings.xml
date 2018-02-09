@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PaintVersion1</string>
+    <string name="action_settings" />
+    <string name="medium" />
+    <string name="small" />
+    <string name="large" />
+    <string name="color">Color</string>
+    <string name="eraser">Eraser</string>
+    <string name="new1">New</string>
+    <string name="brush">Brush</string>
+    <string name="save">Save</string>
+</resources>
